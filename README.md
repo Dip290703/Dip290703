@@ -10,8 +10,7 @@ I love experimenting with new tools, solving problems through code, and constant
 
 ---
 
-- 💬 Ask me about **Frontend Development**, **React**, **Supabase**
-- 🌐 Check out my personal portfolio: [Portfolio](https://your-portfolio-link.com)
+- 💬 Ask me about **Frontend Development**, **React**.
 - 👨‍💻 Pronouns: He/Him
 
 ---
@@ -32,5 +31,4 @@ I love experimenting with new tools, solving problems through code, and constant
 
 ---
 
-### 📌 Pinned Projects
-Check out some of my pinned repositories below!
+
