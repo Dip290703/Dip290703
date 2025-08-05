@@ -10,8 +10,14 @@ I love experimenting with new tools, solving problems through code, and constant
 
 ---
 
-- 💬 Ask me about **Frontend Development**, **React**.
-- 👨‍💻 Pronouns: He/Him
+## 🚀 More About Me
+
+🔭 I’m currently working on improving my **frontend skills** and building full-stack apps using Supabase  
+👯 I’m looking to collaborate on **frontend or full-stack React projects**  
+🌱 I’m currently learning **Next.js**, **TypeScript**, and integrating **Supabase** for backend features  
+💬 Ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Supabase**  
+📫 Reach me at: dipanshu6233@gmail.com  
+😄 Pronouns: He/Him  
 
 ---
 
